@@ -1,6 +1,6 @@
 # Личный проект «Глейси»
 
-* Студент: [Евгений Козлов](https://up.htmlacademy.ru/htmlcss/17/user/407291).
+* Студент: [Jason Miln](https://htmlacademy.ru/profile/yebator).
 * Наставник: `Неизвестно`.
 
 ---
